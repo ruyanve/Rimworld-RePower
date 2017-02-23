@@ -1,0 +1,12 @@
+<defs>
+	<RePower.RePowerDef>
+		<!-- Core Drill-->
+		<defName>RePowerCoreDrill</defName>
+		<targetDef>CoreDrill</targetDef>
+		<lowPower>-80</lowPower>
+		<highPower>-2400</highPower>
+		<poweredWorkbench>false</poweredWorkbench>
+		<poweredReservable>true</poweredReservable>
+	</RePower.RePowerDef>
+	
+</defs>

@@ -1,0 +1,22 @@
+<defs>
+	<RePower.RePowerDef>
+		<!-- VG Canning Stove-->
+		<defName>RePowerCanningStove</defName>
+		<targetDef>Canningstove</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- VG Candy Table -->
+		<defName>RePowerCandyTable</defName>
+		<targetDef>CandyTable</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1200</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+</defs>

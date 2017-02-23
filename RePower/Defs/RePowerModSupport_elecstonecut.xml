@@ -1,0 +1,12 @@
+<defs>
+	<RePower.RePowerDef>
+		<!-- DEöectric Stonecutting-->
+		<defName>RePowerTableStonecutterElectric</defName>
+		<targetDef>TableStonecutterElectric</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1100</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+</defs>

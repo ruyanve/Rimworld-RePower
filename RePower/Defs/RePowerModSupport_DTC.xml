@@ -1,0 +1,12 @@
+<defs>
+	<RePower.RePowerDef>
+		<!-- DTC Advanced Machining Table-->
+		<defName>RePowerAdvancedTableMachining</defName>
+		<targetDef>AdvancedTableMachining</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+</defs>

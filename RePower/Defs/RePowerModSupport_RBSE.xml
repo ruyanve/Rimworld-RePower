@@ -1,0 +1,22 @@
+<defs>
+	<RePower.RePowerDef>
+		<!-- RBSE Bionic Workbench -->
+		<defName>RePowerTableBionic</defName>
+		<targetDef>BionicWorkbench</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1200</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- RBSE Advanced Medical Station -->
+		<defName>RePowerTableAdvanced</defName>
+		<targetDef>AdvancedMedicalStation</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1600</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+</defs>
